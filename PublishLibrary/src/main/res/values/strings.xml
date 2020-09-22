@@ -4,4 +4,6 @@
     <string name="release_dynamic_tips_title">注意</string>
     <string name="release_dynamic_tips_content">1.禁止发布广告；\n2.禁止短时间内发布多条相同资讯； \n3.违反者将会被禁言或者被封号处理； \n4.最终解释权归柬埔寨头条所有，有疑问请咨询在线客服。</string>
     <string name="release_share_moments">分享新鲜事...</string>
+    <string name="release_photo_limit">（限 9 张）</string>
+    <string name="release_upload_photo">上传图片</string>
 </resources>
